@@ -79,7 +79,8 @@ Usage:
   Returns a Raw text response.
 
 2.	JSON Query:
-   <img width="940" height="232" alt="image" src="https://github.com/user-attachments/assets/a3c35938-17ec-426f-865d-8f2aac77eb16" />
+   <img width="1028" height="255" alt="image" src="https://github.com/user-attachments/assets/14d69021-269e-413a-a594-0ec787b0814a" />
+
    
   Json Response:
   <img width="943" height="190" alt="image" src="https://github.com/user-attachments/assets/e9c4e8fd-b9ea-411b-adeb-8e01e71f6a03" />
