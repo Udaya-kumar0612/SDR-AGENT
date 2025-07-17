@@ -68,14 +68,10 @@ LangSmith is integrated for tracing all agent runs, decisions, and tool usage.
 •	Track performance metrics and token usage
 Note: Tracing is enabled in the main.py FastAPI endpoint via the @traceable decorator to capture full pipeline execution.
 
-Project Code Structure:
-	 
-<img width="909" height="703" alt="image" src="https://github.com/user-attachments/assets/11d32c6b-df67-4a29-aff0-b597a082d826" />
-
-
 Usage:
 1.	Text Query and Response
    <img width="940" height="124" alt="image" src="https://github.com/user-attachments/assets/3287ae70-e6f2-4d27-a5f1-4dbccac0703a" />
+   
   Returns a Raw text response.
 
 2.	JSON Query:
