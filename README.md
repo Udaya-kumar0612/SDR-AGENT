@@ -1,4 +1,6 @@
-SDR Assistant – Ai Agents
+                                                                                                SDR Assistant – Ai Agents
+
+
 Enhance your AI agents with real-time data extraction and intelligent decision-making. This SDR Assistant demonstrates tool-augmented reasoning using a LangGraph-based single-turn agent, integrated with the Serper API for web search.
 
 Overview
